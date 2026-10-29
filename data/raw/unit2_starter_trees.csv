@@ -1,0 +1,11 @@
+"plot_id","tree_id","species","dbh_cm","height_m"
+"P01","T001","Schima wallichii",28.4,19.2
+"P01","T002","Castanopsis indica",35.1,22.4
+"P01","T003","Schima wallichii",17.8,13.7
+"P01","T004","Shorea robusta",42,25.1
+"P02","T001","Schima wallichii",22.4,17.1
+"P02","T002","Alnus nepalensis",31.6,20.3
+"P02","T003","Castanopsis indica",19.5,14.8
+"P03","T001","Shorea robusta",45.2,24.1
+"P03","T002","Alnus nepalensis",26.8,18.5
+"P03","T003","Schima wallichii",15.3,12.2
